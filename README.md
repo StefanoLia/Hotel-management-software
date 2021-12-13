@@ -1,5 +1,5 @@
 # Hotel-management-software
-This is the project I developed for the course of Object Programming in C++ during University
+This is the project I developed for the course of Object Oriented Programming in C++ during University
 
 ## Development Environment
 * Compiler: GCC 4.9.1, 64 bit
